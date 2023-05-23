@@ -1,1 +1,0 @@
-# hw12-SQL-Employee-Tracker

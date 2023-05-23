@@ -1,10 +1,9 @@
 const inquirer = require("inquirer");
 const mysql = require("mysql");
 
-
 const db = mysql.createConnection({
   host: "localhost",
-  user: "root",
+  user: "rootroot",
   password: "rootroot",
   database: "company_db",
 });
